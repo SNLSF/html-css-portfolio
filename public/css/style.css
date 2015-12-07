@@ -261,7 +261,7 @@ textarea:focus, input:focus{
 }
 
 .input-field {
-	background: url(../images/ocean.jpg) repeat;
+	background: url(../images/ocean.jpg) no-repeat center top;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
