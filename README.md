@@ -2,6 +2,6 @@
 
 A simple portfolio to showcase HTML &amp; CSS best practices 
 
-Proper naming conventions
-DRY code
+Proper naming conventions, 
+dry code, 
 BEM sytax
